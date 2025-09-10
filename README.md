@@ -5,7 +5,7 @@ Sistema web responsivo para cálculo e geração de relatórios de produção in
 
 *Funcionalidades Principais*
 
-· Cálculo de Produçãons 
+· Cálculo de Produção
 
 · Seleção de formatos e 
 metragem pré-definidos (personalizável).
